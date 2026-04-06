@@ -30,5 +30,3 @@ A simple web application that visually demonstrates password strength by dynamic
 ## Demo
 
 As you type in the password field, the background image will transition from heavily blurred to clear, providing immediate visual feedback on password strength.
-
-This project is part of the "50 Projects in 50 Days" challenge.
